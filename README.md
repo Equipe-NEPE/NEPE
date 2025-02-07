@@ -7,4 +7,5 @@ As atividades são desenvolvidas por alunos da graduação, com a orientação d
 Aqui no GitHub, compartilhamos nossos estudos, experimentos e soluções inovadoras, promovendo a colaboração e a disseminação do conhecimento.
 
 🔬 Áreas de atuação: Tecnologia, inovação, pesquisa aplicada, desenvolvimento de software, automação e inteligência artificial.
+
 📢 Quer saber mais? Acompanhe nossos projetos e contribua para um futuro mais inovador!
